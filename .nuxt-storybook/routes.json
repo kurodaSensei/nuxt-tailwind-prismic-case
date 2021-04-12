@@ -1,0 +1,15 @@
+[
+  {
+    "name": "prismic-preview",
+    "path": "/preview",
+    "component": "/home/kurodasensei/Gradi/case/.nuxt-storybook/prismic/pages/preview.vue",
+    "_name": "_785c19fc"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/kurodasensei/Gradi/case/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_ab6d5866"
+  }
+]
